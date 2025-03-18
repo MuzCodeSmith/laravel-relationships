@@ -1,0 +1,1 @@
+<h1>One to One </h1><?php /**PATH D:\xampp\htdocs\one-to-one\resources\views/welcome.blade.php ENDPATH**/ ?>
